@@ -1,5 +1,6 @@
 .banner-bg{
     background-color: rgba(241, 241, 243, 1);
+    
 }
 
 .fira-sans-banner {
@@ -14,10 +15,12 @@
     }
 
 .banner{
+    background-size: 860px;
+    background-position: center;
     display: flex;
     background-color: #C6E4D6;
-    width: 1280px;
-    justify-content: space-between; 
+    /* width: 1280px; */
+    justify-content: space-between;  
 }
 
 .btn-banner{
